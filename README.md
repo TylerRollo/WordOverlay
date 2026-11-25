@@ -33,7 +33,6 @@ WordOverlay/
 
 * **OS:** Windows 10 or Windows 11
 * **SDK:** [.NET 6.0 / .NET 8.0 SDK](https://dotnet.microsoft.com/download) (or the target framework specified in `WordOverlay.csproj`)
-* **IDE (Optional):** Visual Studio 2022 or JetBrains Rider
 
 ## Getting Started
 
